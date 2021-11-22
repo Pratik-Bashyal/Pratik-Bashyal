@@ -1,16 +1,4 @@
 ### Hi there 👋
-
-
-- 🔭 I’m currently working on Kumari Bank Limited.
-- 🌱 I’m currently learning Microsoft Technologies
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Microsoft Technologies
-- 💬 Ask me about Tech
-- 📫 How to reach me: 
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
-
-
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
