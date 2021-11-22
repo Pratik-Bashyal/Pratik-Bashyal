@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-🕸 **Find me 👉 https://http://pratik-bashyal.github.io/** 🕸  
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 
@@ -9,7 +9,8 @@
 ✔ I’m currently working as a Banker<br>
 ✔ I’m currently learning about Microsoft Technologies<br>
 ✔ Always ready to talk about Tech 😉<br>
-✔ Fun fact : I'm Tech Enthusiast😎<br><br><br><br>
+✔ Fun fact : I'm Tech Enthusiast😎<br>
+🕸 **Find me 👉 https://http://pratik-bashyal.github.io/** 🕸 <br><br><br>
 <br><br><br><br>
 
 <p align='center'>
