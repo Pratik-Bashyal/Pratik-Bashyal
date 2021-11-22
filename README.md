@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently working as Banker<br>
+✔ I’m currently working as a Banker<br>
 ✔ I’m currently learning about Microsoft Technologies<br>
 ✔ Always ready to talk about Tech 😉<br>
 ✔ Fun fact : *I Always try to LEARN and SHARE* 😎<br><br><br><br>
