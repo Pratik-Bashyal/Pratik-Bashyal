@@ -5,7 +5,7 @@
 
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently working as a Banker<br>
+✔ I’m currently working as a .NET Developer<br>
 ✔ I’m currently learning about Microsoft Technologies<br>
 ✔ Always ready to talk about Tech 😉<br>
 ✔ Fun fact : I'm Tech Enthusiast😎<br>
